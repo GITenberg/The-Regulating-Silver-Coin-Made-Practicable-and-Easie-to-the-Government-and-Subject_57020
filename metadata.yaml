@@ -1,11 +1,16 @@
 _repo: The-Regulating-Silver-Coin-Made-Practicable-and-Easie-to-the-Government-and-Subject_57020
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57020-h/images/cover.jpg
 creator:
   author:
     agent_name: Pratt, Samuel
     gutenberg_agent_id: '49146'
     url: http://www.gutenberg.org/2009/agents/49146
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57020#The-Regulating-Silver-Coin-Made-Practicable-and-Easie-to-the-Government-and-Subject
 gutenberg_issued: '2018-04-22'
 gutenberg_type: Text
 identifiers:
